@@ -1,0 +1,8 @@
+- name: "Wilson"
+  occupation: "Digital Product designer"
+
+- name: "Mike"
+  occupation: "Doctor"
+
+- name: "Rob"
+  occupation: "Programmer" 
